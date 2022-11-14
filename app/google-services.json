@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "157208872912",
+    "project_id": "damtest-a45fd",
+    "storage_bucket": "damtest-a45fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157208872912:android:aecd8e6bb99bfc9ab7dbd5",
+        "android_client_info": {
+          "package_name": "com.dalosa.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157208872912-hjhi45ovrjpmajrv4nqttei9asntm9ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dalosa.testfirebase",
+            "certificate_hash": "47577225a37493c5fe48160547b3e9f47615bf5d"
+          }
+        },
+        {
+          "client_id": "157208872912-dhbldmqdlj9ci8m0v35j7i2mnrbdvb2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxpa2ESO4711v-G23Clo8WM-IpO0zWfwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157208872912-dhbldmqdlj9ci8m0v35j7i2mnrbdvb2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
